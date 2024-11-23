@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">A ver como se me da...</h2>
+<h2 align="left">A ver cómo se me da...</h2>
 
 ###
 
